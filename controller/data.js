@@ -560,6 +560,26 @@ const home = (req,res)=>{
       DataDetailDescription:"Spotify recently dropped Meghan Markle's podcast on its platform, citing its failure to meet the productivity benchmark. Now, Page Six have reported Spotify employees as labelling Meghan and Prince Harry as “lazy” and “f**king grifters” over the matter. Bill Simmons, who is head of Spotify’s international sports content, said on his own podcast, “'The f**king grifters.’ That’s the podcast we shoulda launched with them.”",
       avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
       name:"Rupnar Kiran",date:"Apr 08, 2023"},
+      {id:99 ,category:"more",DataImage:"https://scontent.fpnq8-1.fna.fbcdn.net/v/t39.30808-6/279810619_5828907183802377_7237836001064175277_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=EKW4Q4-Xk_kAX_-6Q8y&_nc_ht=scontent.fpnq8-1.fna&oh=00_AfBvluhz_foIQ8Qm1PI2nZ-8z2jiEphqi8NRECTOhmYwiQ&oe=6491DBC8",
+        DataTitle:"Release Date 20 May 2022 Language Hindi",
+        DataDescription:"Set between Central India and Europe, Dhaakad follows Agent Agni (Kangana Ranaut), a highly trained and deadly field intelligence agent.",
+        DataDetailDescription:"Set between Central India and Europe, Dhaakad follows Agent Agni (Kangana Ranaut), a highly trained and deadly field intelligence agent.",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
+
+        {id:100 ,category:"more",DataImage:"https://assets.thehansindia.com/h-upload/2021/05/25/1078280-tech.webp",
+        DataTitle:"Meta Lowers Minimum Age for Quest Headsets Users From 13 Years to 10 Years",
+        DataDescription:"Meta will use children's ages to “provide age-appropriate experiences” across its app store like recommending age-appropriate apps. Even though the age limit is slashed, parents are promised to get control over the apps their kids download from the Meta Quest Platform. Also, they would be able to block access to apps at any time, says Meta.",
+        DataDetailDescription:"launched its latest generation mixed reality headset, the Quest 3, earlier this month. The Mark Zuckerberg-led company, which currently dominates the market for Augmented Reality and Virtual Reality devices, is now lowering the minimum age for Meta Quest account users from 13 years to 10 years. With the latest development, parents can set up parent-managed Meta accounts for children aged 10 and 12 years on Meta's Quest 2 and Quest 3 headsets, starting later this year. Meta says it will not show ads to users in this age group. Also, apps that are rated safe for kids will be recommended..",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
+
+        {id:101 ,category:"more",DataImage:"https://images.lifestyleasia.com/wp-content/uploads/sites/5/2022/11/30155228/SPOTIFY-HERO-1600x900.jpg?tr=w-1600",
+        DataTitle:"Spotify fires barbs on Prince Harry and Meghan Markle after recent termination of podcast deal",
+        DataDescription:"Similar to Spotify, YouTube Music users will soon be able to sing along their favourite tunes.",
+        DataDetailDescription:"Spotify recently dropped Meghan Markle's podcast on its platform, citing its failure to meet the productivity benchmark. Now, Page Six have reported Spotify employees as labelling Meghan and Prince Harry as “lazy” and “f**king grifters” over the matter. Bill Simmons, who is head of Spotify’s international sports content, said on his own podcast, “'The f**king grifters.’ That’s the podcast we shoulda launched with them.”",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
   ])
   }
   const bollywood = (req,res)=>{
@@ -683,6 +703,26 @@ const home = (req,res)=>{
       DataDetailDescription:"GASLIGHT is the story of a daughter and her missing father. Mishri aka Meesha (Sara Ali Khan) returns to her hometown in Gujarat to meet her father (Shataf Ahmed Figar) after years. Meesha cant walk and had separated from her father after a tragedy in the palace and also after her father remarried. As soon as Meesha returns, shes welcomed by her stepmother, Rukmani (Chitrangda Singh). Surprisingly, her father is nowhere to be found. Rukmani and others tell her that he had to urgently head to their factory to pacify the agitated workers on strike. Meesha finds the reason unconvincing. She calls her father but his phone is switched off. Moreover, eerie things happen to her at night that make her believe that her father is dead. While Rukmani rubbishes these claims, Kapil (Vikrant Massey), a faithful servant of the palace, decides to help her. What happens next forms the rest of the film.Neha Veena Sharma and Pavan Kirpalani's story is alright but could have been translated into a fine suspense flick. Neha Veena Sharma and Pavan Kirpalani's screenplay, however, is clichéd and unexciting for most parts. The writers take a lot of time for the build-up. Amit Mehta's dialogues (additional dialogues by Neha Veena Sharma) are routine.Pavan Kirpalani's direction is a mixed bag. He succeeds in making good use of the location and in creating an eerie, mysterious atmosphere. A particular scene, shot in the salt pan, also stands out for its execution. However, despite a runtime of 111 minutes, the film seems too long as its quite slow. Some scenes test the patience of the viewers. Moreover, the template of a character seeing something mysterious but failing to prove it to the rest of the characters has been beaten-to-death.Thankfully, the suspense in the last 15 minutes is shocking and unexpected. The makers also tie all the loose ends at this point and the film ends on a thrilling and justified note. This majorly saves the film.",
       avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
       name:"Rupnar Kiran",date:"Apr 08, 2023"},
+      {id:99 ,category:"more",DataImage:"https://scontent.fpnq8-1.fna.fbcdn.net/v/t39.30808-6/279810619_5828907183802377_7237836001064175277_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=EKW4Q4-Xk_kAX_-6Q8y&_nc_ht=scontent.fpnq8-1.fna&oh=00_AfBvluhz_foIQ8Qm1PI2nZ-8z2jiEphqi8NRECTOhmYwiQ&oe=6491DBC8",
+        DataTitle:"Release Date 20 May 2022 Language Hindi",
+        DataDescription:"Set between Central India and Europe, Dhaakad follows Agent Agni (Kangana Ranaut), a highly trained and deadly field intelligence agent.",
+        DataDetailDescription:"Set between Central India and Europe, Dhaakad follows Agent Agni (Kangana Ranaut), a highly trained and deadly field intelligence agent.",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
+
+        {id:100 ,category:"more",DataImage:"https://assets.thehansindia.com/h-upload/2021/05/25/1078280-tech.webp",
+        DataTitle:"Meta Lowers Minimum Age for Quest Headsets Users From 13 Years to 10 Years",
+        DataDescription:"Meta will use children's ages to “provide age-appropriate experiences” across its app store like recommending age-appropriate apps. Even though the age limit is slashed, parents are promised to get control over the apps their kids download from the Meta Quest Platform. Also, they would be able to block access to apps at any time, says Meta.",
+        DataDetailDescription:"launched its latest generation mixed reality headset, the Quest 3, earlier this month. The Mark Zuckerberg-led company, which currently dominates the market for Augmented Reality and Virtual Reality devices, is now lowering the minimum age for Meta Quest account users from 13 years to 10 years. With the latest development, parents can set up parent-managed Meta accounts for children aged 10 and 12 years on Meta's Quest 2 and Quest 3 headsets, starting later this year. Meta says it will not show ads to users in this age group. Also, apps that are rated safe for kids will be recommended..",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
+
+        {id:101 ,category:"more",DataImage:"https://images.lifestyleasia.com/wp-content/uploads/sites/5/2022/11/30155228/SPOTIFY-HERO-1600x900.jpg?tr=w-1600",
+        DataTitle:"Spotify fires barbs on Prince Harry and Meghan Markle after recent termination of podcast deal",
+        DataDescription:"Similar to Spotify, YouTube Music users will soon be able to sing along their favourite tunes.",
+        DataDetailDescription:"Spotify recently dropped Meghan Markle's podcast on its platform, citing its failure to meet the productivity benchmark. Now, Page Six have reported Spotify employees as labelling Meghan and Prince Harry as “lazy” and “f**king grifters” over the matter. Bill Simmons, who is head of Spotify’s international sports content, said on his own podcast, “'The f**king grifters.’ That’s the podcast we shoulda launched with them.”",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
 ])
   }
   const technology = (req,res)=>{
@@ -798,6 +838,26 @@ const home = (req,res)=>{
           DataDetailDescription:"Praanvi Gupta, a 7-year-old girl from India, has created a Guinness World Record by becoming the worlds youngest yoga instructor (female). She has been approved and certified as an RYT00 (Registered Yoga Teacher) by the Yoga Alliance Organisation after completing the 200-hour Yoga Teacher Training Course.According to the records website, shes even younger than the youngest yoga instructor (male) Reyansh Surani — also from India — who received his certification in July 2021, at the age of 9 years and 220 days.Praanvi, who would watch her mother practise yoga at home, began her yoga journey at the tender age of just 3.5 years. After months of observing and imitating her mother, the young girl started practising yoga on her own followed by enrolling in formal yoga classes at the age of seven .I want to spread the love of yoga to as many people as possible,” she told guinnessworldrecords.com, on her passion for teaching. As such, encouraged by her yoga instructor, she started the Yoga Teachers Training Program.She continued, “This journey was not an easy one, because of my regular school which was also ongoing. But, with great support from my teachers and parents, Im happy that I successfully completed and passed the qualification exam of Yoga Teachers Training Course.”",
           avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
           name:"Rupnar Kiran",date:"Apr 08, 2023"},
+          {id:99 ,category:"more",DataImage:"https://scontent.fpnq8-1.fna.fbcdn.net/v/t39.30808-6/279810619_5828907183802377_7237836001064175277_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=EKW4Q4-Xk_kAX_-6Q8y&_nc_ht=scontent.fpnq8-1.fna&oh=00_AfBvluhz_foIQ8Qm1PI2nZ-8z2jiEphqi8NRECTOhmYwiQ&oe=6491DBC8",
+        DataTitle:"Release Date 20 May 2022 Language Hindi",
+        DataDescription:"Set between Central India and Europe, Dhaakad follows Agent Agni (Kangana Ranaut), a highly trained and deadly field intelligence agent.",
+        DataDetailDescription:"Set between Central India and Europe, Dhaakad follows Agent Agni (Kangana Ranaut), a highly trained and deadly field intelligence agent.",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
+
+        {id:100 ,category:"more",DataImage:"https://assets.thehansindia.com/h-upload/2021/05/25/1078280-tech.webp",
+        DataTitle:"Meta Lowers Minimum Age for Quest Headsets Users From 13 Years to 10 Years",
+        DataDescription:"Meta will use children's ages to “provide age-appropriate experiences” across its app store like recommending age-appropriate apps. Even though the age limit is slashed, parents are promised to get control over the apps their kids download from the Meta Quest Platform. Also, they would be able to block access to apps at any time, says Meta.",
+        DataDetailDescription:"launched its latest generation mixed reality headset, the Quest 3, earlier this month. The Mark Zuckerberg-led company, which currently dominates the market for Augmented Reality and Virtual Reality devices, is now lowering the minimum age for Meta Quest account users from 13 years to 10 years. With the latest development, parents can set up parent-managed Meta accounts for children aged 10 and 12 years on Meta's Quest 2 and Quest 3 headsets, starting later this year. Meta says it will not show ads to users in this age group. Also, apps that are rated safe for kids will be recommended..",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
+
+        {id:101 ,category:"more",DataImage:"https://images.lifestyleasia.com/wp-content/uploads/sites/5/2022/11/30155228/SPOTIFY-HERO-1600x900.jpg?tr=w-1600",
+        DataTitle:"Spotify fires barbs on Prince Harry and Meghan Markle after recent termination of podcast deal",
+        DataDescription:"Similar to Spotify, YouTube Music users will soon be able to sing along their favourite tunes.",
+        DataDetailDescription:"Spotify recently dropped Meghan Markle's podcast on its platform, citing its failure to meet the productivity benchmark. Now, Page Six have reported Spotify employees as labelling Meghan and Prince Harry as “lazy” and “f**king grifters” over the matter. Bill Simmons, who is head of Spotify’s international sports content, said on his own podcast, “'The f**king grifters.’ That’s the podcast we shoulda launched with them.”",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
     ])
   }
   const hollywood = (req,res)=>{
@@ -908,6 +968,26 @@ const home = (req,res)=>{
           DataDetailDescription:"Chris Pratt voices the character of Mario in the Super Mario Bros. movie which is released on April 5, 2023. Mario is a happy-go-lucky Italian plumber thats always trying to rescue Princess Peach.The animated Nintendo film has an all-star cast that voices the characters from Anya Taylor-Joy to Jack Black, Seth Rogen, and more. The highly anticipated film brings the characters from the iconic Nintendo video game to life and you will not believe which A-list stars voice the characters. To see who plays who, you can scroll through the gallery to see all of the photos. Anya Taylor-Joy plays the character of Princess Peach, who is always getting captured by Bowser and needs the Mario brothers help. Jack Black plays Bowser, who is your quintessential villain that breathes fire and is always trying to capture Princess Peach.Keegan-Michael Key voices the character of Toad – your friendly little neighborhood helper that is always there to help Mario along the way. Seth Rogen voices Donkey Kong, a tough, run-and-tumble character. Fun fact: the first time Mario ever appeared in a video game was the Donkey Kong game. Kevin Michael Richardson voices Kamek, a small, wise sorcerer thats always up to no good.Fred Armisen plays Cranky Kong, Donkey Kongs grumpy uncle, who used to run a shop in the games where you could buy items.",
           avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
           name:"Rupnar Kiran",date:"Apr 10, 2023"},
+          {id:99 ,category:"more",DataImage:"https://scontent.fpnq8-1.fna.fbcdn.net/v/t39.30808-6/279810619_5828907183802377_7237836001064175277_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=EKW4Q4-Xk_kAX_-6Q8y&_nc_ht=scontent.fpnq8-1.fna&oh=00_AfBvluhz_foIQ8Qm1PI2nZ-8z2jiEphqi8NRECTOhmYwiQ&oe=6491DBC8",
+        DataTitle:"Release Date 20 May 2022 Language Hindi",
+        DataDescription:"Set between Central India and Europe, Dhaakad follows Agent Agni (Kangana Ranaut), a highly trained and deadly field intelligence agent.",
+        DataDetailDescription:"Set between Central India and Europe, Dhaakad follows Agent Agni (Kangana Ranaut), a highly trained and deadly field intelligence agent.",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
+
+        {id:100 ,category:"more",DataImage:"https://assets.thehansindia.com/h-upload/2021/05/25/1078280-tech.webp",
+        DataTitle:"Meta Lowers Minimum Age for Quest Headsets Users From 13 Years to 10 Years",
+        DataDescription:"Meta will use children's ages to “provide age-appropriate experiences” across its app store like recommending age-appropriate apps. Even though the age limit is slashed, parents are promised to get control over the apps their kids download from the Meta Quest Platform. Also, they would be able to block access to apps at any time, says Meta.",
+        DataDetailDescription:"launched its latest generation mixed reality headset, the Quest 3, earlier this month. The Mark Zuckerberg-led company, which currently dominates the market for Augmented Reality and Virtual Reality devices, is now lowering the minimum age for Meta Quest account users from 13 years to 10 years. With the latest development, parents can set up parent-managed Meta accounts for children aged 10 and 12 years on Meta's Quest 2 and Quest 3 headsets, starting later this year. Meta says it will not show ads to users in this age group. Also, apps that are rated safe for kids will be recommended..",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
+
+        {id:101 ,category:"more",DataImage:"https://images.lifestyleasia.com/wp-content/uploads/sites/5/2022/11/30155228/SPOTIFY-HERO-1600x900.jpg?tr=w-1600",
+        DataTitle:"Spotify fires barbs on Prince Harry and Meghan Markle after recent termination of podcast deal",
+        DataDescription:"Similar to Spotify, YouTube Music users will soon be able to sing along their favourite tunes.",
+        DataDetailDescription:"Spotify recently dropped Meghan Markle's podcast on its platform, citing its failure to meet the productivity benchmark. Now, Page Six have reported Spotify employees as labelling Meghan and Prince Harry as “lazy” and “f**king grifters” over the matter. Bill Simmons, who is head of Spotify’s international sports content, said on his own podcast, “'The f**king grifters.’ That’s the podcast we shoulda launched with them.”",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
   
           
     ])
@@ -1019,6 +1099,26 @@ const home = (req,res)=>{
           DataDetailDescription:"THE STRAIGHT BAR deadlift is widely esteemed as a strength training essential. For good reason, too: The compound lift fires up the hamstrings and glutes, while engaging other muscles through your quads, back, and abs. For most guys, deadlift day begins and ends with the Olympic (or straight) barbell. This unforgiving implement is generally how most strength sports (like powerlifting and strongman) engage with the deadlift, and it is a useful tool to build strength and size—but it might not be the most functional way to train the movement. That distinction goes to another piece of gear: the trap bar.The trap bar shifts your grip from the front of your body to the sides, which is a much more natural way to lift a heavy load off the floor. When youre hinging over to pick up a heavy load of groceries (we see you and your six bags in each arm), youre probably not ending up with the bags in front of your thighs—but thats the way that you lift when you do the barbell deadlift. Youd struggle to walk those bags into the house if you hold them in that same position. Were used to carrying loads on our sides, so why not train our deadlifts the same way?This is where the trap bar has an advantage over the traditional barbell. The bar is fixed in a hexagonal shape, with neutral grip handles in the center. The lifter is able to grasp the load at a natural angle, aiding a more comfortable pull. This reinforces natural movement by situating the load more centrally, all while packing on heavy weights like the straight bar.Still, doing the trap bar deadlift isnt as simple as just pulling the weight off the floor. Like other variations, the trap bar deadlift requires the proper mechanics, says Mens Health fitness director Ebenezer Samuel C.S.C.S., as he and fitness editor Brett Williams, N.A.S.M., demonstrate the essentials that can keep your heavyweight lifts safe and effective.Benefits of the Trap Bar DeadliftYou'll have a more natural motion when you lift. “It's going to be a lot easier and a lot more natural for you to pick up in the trap bar",
           avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
           name:"Rupnar Kiran",date:"Apr 08, 2023"},
+          {id:99 ,category:"more",DataImage:"https://scontent.fpnq8-1.fna.fbcdn.net/v/t39.30808-6/279810619_5828907183802377_7237836001064175277_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=EKW4Q4-Xk_kAX_-6Q8y&_nc_ht=scontent.fpnq8-1.fna&oh=00_AfBvluhz_foIQ8Qm1PI2nZ-8z2jiEphqi8NRECTOhmYwiQ&oe=6491DBC8",
+        DataTitle:"Release Date 20 May 2022 Language Hindi",
+        DataDescription:"Set between Central India and Europe, Dhaakad follows Agent Agni (Kangana Ranaut), a highly trained and deadly field intelligence agent.",
+        DataDetailDescription:"Set between Central India and Europe, Dhaakad follows Agent Agni (Kangana Ranaut), a highly trained and deadly field intelligence agent.",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
+
+        {id:100 ,category:"more",DataImage:"https://assets.thehansindia.com/h-upload/2021/05/25/1078280-tech.webp",
+        DataTitle:"Meta Lowers Minimum Age for Quest Headsets Users From 13 Years to 10 Years",
+        DataDescription:"Meta will use children's ages to “provide age-appropriate experiences” across its app store like recommending age-appropriate apps. Even though the age limit is slashed, parents are promised to get control over the apps their kids download from the Meta Quest Platform. Also, they would be able to block access to apps at any time, says Meta.",
+        DataDetailDescription:"launched its latest generation mixed reality headset, the Quest 3, earlier this month. The Mark Zuckerberg-led company, which currently dominates the market for Augmented Reality and Virtual Reality devices, is now lowering the minimum age for Meta Quest account users from 13 years to 10 years. With the latest development, parents can set up parent-managed Meta accounts for children aged 10 and 12 years on Meta's Quest 2 and Quest 3 headsets, starting later this year. Meta says it will not show ads to users in this age group. Also, apps that are rated safe for kids will be recommended..",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
+
+        {id:101 ,category:"more",DataImage:"https://images.lifestyleasia.com/wp-content/uploads/sites/5/2022/11/30155228/SPOTIFY-HERO-1600x900.jpg?tr=w-1600",
+        DataTitle:"Spotify fires barbs on Prince Harry and Meghan Markle after recent termination of podcast deal",
+        DataDescription:"Similar to Spotify, YouTube Music users will soon be able to sing along their favourite tunes.",
+        DataDetailDescription:"Spotify recently dropped Meghan Markle's podcast on its platform, citing its failure to meet the productivity benchmark. Now, Page Six have reported Spotify employees as labelling Meghan and Prince Harry as “lazy” and “f**king grifters” over the matter. Bill Simmons, who is head of Spotify’s international sports content, said on his own podcast, “'The f**king grifters.’ That’s the podcast we shoulda launched with them.”",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
   
           
       ]);
@@ -1121,6 +1221,26 @@ const home = (req,res)=>{
         {id:96 ,category:"food" ,DataImage:"https://images.indianexpress.com/2022/09/egg.jpg?w=640" ,
         DataTitle:"You are sure to love this healthy and quick egg recipe",
         DataDetailDescription:"Eggs are a powerhouse of various vitamins and minerals. Beneficial for brain health, heart health, and even the eyes, eggs can be consumed in numerous ways — boiled, poached, and even as a curry.“Today, I have this easy frittata recipe that is healthy and quick to make,” Yasmin wrote as she shared the recipe.Bring 1 cup of water to a boil in a large pan covered with a lid.Add a pinch of salt, sweet potato cubes, sliced carrot, and garlic, and cook for 5 to 7 minutes until the sweet potato and carrot are slightly softRemove the vegetables from the water and keep them aside.Beat the egg whites vigorously with a whisker until it becomes frothy and bubblyHeat the olive oil in a pan over medium flame. When the oil is hot add the egg whites, then scatter the cooked vegetables evenly over top.Let the frittata cook on the stove for 2 minutes",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
+        {id:99 ,category:"more",DataImage:"https://scontent.fpnq8-1.fna.fbcdn.net/v/t39.30808-6/279810619_5828907183802377_7237836001064175277_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=EKW4Q4-Xk_kAX_-6Q8y&_nc_ht=scontent.fpnq8-1.fna&oh=00_AfBvluhz_foIQ8Qm1PI2nZ-8z2jiEphqi8NRECTOhmYwiQ&oe=6491DBC8",
+        DataTitle:"Release Date 20 May 2022 Language Hindi",
+        DataDescription:"Set between Central India and Europe, Dhaakad follows Agent Agni (Kangana Ranaut), a highly trained and deadly field intelligence agent.",
+        DataDetailDescription:"Set between Central India and Europe, Dhaakad follows Agent Agni (Kangana Ranaut), a highly trained and deadly field intelligence agent.",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
+
+        {id:100 ,category:"more",DataImage:"https://assets.thehansindia.com/h-upload/2021/05/25/1078280-tech.webp",
+        DataTitle:"Meta Lowers Minimum Age for Quest Headsets Users From 13 Years to 10 Years",
+        DataDescription:"Meta will use children's ages to “provide age-appropriate experiences” across its app store like recommending age-appropriate apps. Even though the age limit is slashed, parents are promised to get control over the apps their kids download from the Meta Quest Platform. Also, they would be able to block access to apps at any time, says Meta.",
+        DataDetailDescription:"launched its latest generation mixed reality headset, the Quest 3, earlier this month. The Mark Zuckerberg-led company, which currently dominates the market for Augmented Reality and Virtual Reality devices, is now lowering the minimum age for Meta Quest account users from 13 years to 10 years. With the latest development, parents can set up parent-managed Meta accounts for children aged 10 and 12 years on Meta's Quest 2 and Quest 3 headsets, starting later this year. Meta says it will not show ads to users in this age group. Also, apps that are rated safe for kids will be recommended..",
+        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
+        name:"Rupnar Kiran",date:"Apr 08, 2023"},
+
+        {id:101 ,category:"more",DataImage:"https://images.lifestyleasia.com/wp-content/uploads/sites/5/2022/11/30155228/SPOTIFY-HERO-1600x900.jpg?tr=w-1600",
+        DataTitle:"Spotify fires barbs on Prince Harry and Meghan Markle after recent termination of podcast deal",
+        DataDescription:"Similar to Spotify, YouTube Music users will soon be able to sing along their favourite tunes.",
+        DataDetailDescription:"Spotify recently dropped Meghan Markle's podcast on its platform, citing its failure to meet the productivity benchmark. Now, Page Six have reported Spotify employees as labelling Meghan and Prince Harry as “lazy” and “f**king grifters” over the matter. Bill Simmons, who is head of Spotify’s international sports content, said on his own podcast, “'The f**king grifters.’ That’s the podcast we shoulda launched with them.”",
         avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
         name:"Rupnar Kiran",date:"Apr 08, 2023"},
 
