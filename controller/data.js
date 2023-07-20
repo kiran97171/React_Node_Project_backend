@@ -560,26 +560,7 @@ const home = (req,res)=>{
       DataDetailDescription:"Spotify recently dropped Meghan Markle's podcast on its platform, citing its failure to meet the productivity benchmark. Now, Page Six have reported Spotify employees as labelling Meghan and Prince Harry as “lazy” and “f**king grifters” over the matter. Bill Simmons, who is head of Spotify’s international sports content, said on his own podcast, “'The f**king grifters.’ That’s the podcast we shoulda launched with them.”",
       avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
       name:"Rupnar Kiran",date:"Apr 08, 2023"},
-      {id:99 ,category:"more",DataImage:"https://scontent.fpnq8-1.fna.fbcdn.net/v/t39.30808-6/279810619_5828907183802377_7237836001064175277_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=EKW4Q4-Xk_kAX_-6Q8y&_nc_ht=scontent.fpnq8-1.fna&oh=00_AfBvluhz_foIQ8Qm1PI2nZ-8z2jiEphqi8NRECTOhmYwiQ&oe=6491DBC8",
-        DataTitle:"Release Date 20 May 2022 Language Hindi",
-        DataDescription:"Set between Central India and Europe, Dhaakad follows Agent Agni (Kangana Ranaut), a highly trained and deadly field intelligence agent.",
-        DataDetailDescription:"Set between Central India and Europe, Dhaakad follows Agent Agni (Kangana Ranaut), a highly trained and deadly field intelligence agent.",
-        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
-        name:"Rupnar Kiran",date:"Apr 08, 2023"},
-
-        {id:100 ,category:"more",DataImage:"https://assets.thehansindia.com/h-upload/2021/05/25/1078280-tech.webp",
-        DataTitle:"Meta Lowers Minimum Age for Quest Headsets Users From 13 Years to 10 Years",
-        DataDescription:"Meta will use children's ages to “provide age-appropriate experiences” across its app store like recommending age-appropriate apps. Even though the age limit is slashed, parents are promised to get control over the apps their kids download from the Meta Quest Platform. Also, they would be able to block access to apps at any time, says Meta.",
-        DataDetailDescription:"launched its latest generation mixed reality headset, the Quest 3, earlier this month. The Mark Zuckerberg-led company, which currently dominates the market for Augmented Reality and Virtual Reality devices, is now lowering the minimum age for Meta Quest account users from 13 years to 10 years. With the latest development, parents can set up parent-managed Meta accounts for children aged 10 and 12 years on Meta's Quest 2 and Quest 3 headsets, starting later this year. Meta says it will not show ads to users in this age group. Also, apps that are rated safe for kids will be recommended..",
-        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
-        name:"Rupnar Kiran",date:"Apr 08, 2023"},
-
-        {id:101 ,category:"more",DataImage:"https://images.lifestyleasia.com/wp-content/uploads/sites/5/2022/11/30155228/SPOTIFY-HERO-1600x900.jpg?tr=w-1600",
-        DataTitle:"Spotify fires barbs on Prince Harry and Meghan Markle after recent termination of podcast deal",
-        DataDescription:"Similar to Spotify, YouTube Music users will soon be able to sing along their favourite tunes.",
-        DataDetailDescription:"Spotify recently dropped Meghan Markle's podcast on its platform, citing its failure to meet the productivity benchmark. Now, Page Six have reported Spotify employees as labelling Meghan and Prince Harry as “lazy” and “f**king grifters” over the matter. Bill Simmons, who is head of Spotify’s international sports content, said on his own podcast, “'The f**king grifters.’ That’s the podcast we shoulda launched with them.”",
-        avatar:"https://www.svgrepo.com/show/43652/avatar.svg",
-        name:"Rupnar Kiran",date:"Apr 08, 2023"},
+      
   ])
   }
   const bollywood = (req,res)=>{
